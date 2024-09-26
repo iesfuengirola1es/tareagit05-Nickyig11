@@ -1,3 +1,4 @@
 # tarea 5 en parejas
 
-## Esta linea esta escrita por mi nicky
+## hacemos un fork para trabajar el repositorio de bruno
+
