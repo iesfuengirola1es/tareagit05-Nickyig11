@@ -34,6 +34,13 @@
 ### El merge
 ![alt text](image-11.png)
 
-## Ultimo paso comprobar que se ha subido el .java a mi repositorio
+## Comprobar que se ha subido el .java a mi repositorio
 ![alt text](image-12.png) 
 ![alt text](image-13.png)
+
+## último commit añadidle un tag que se llame "v1.0
+![image](https://github.com/user-attachments/assets/1f17bd44-6b07-46e1-a0c9-6e30888d5607)
+
+##   clone del repositorio del tag "v1.0"
+![image](https://github.com/user-attachments/assets/2b923c13-e1de-4493-8909-6bef75521bf3)
+
